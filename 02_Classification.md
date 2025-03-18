@@ -1,5 +1,4 @@
-# Classification Study Notes (Intermediate/Advanced)
-
+# Classification Study Notes 
 ## **1. What is Classification?**
 Classification is a supervised learning technique used to predict categorical labels based on input features. The output is discrete and belongs to predefined classes.
 
